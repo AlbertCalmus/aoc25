@@ -1,0 +1,4 @@
+__pycache__/
+
+# Input files should not be committed, AoC rules.
+inputs/ 
